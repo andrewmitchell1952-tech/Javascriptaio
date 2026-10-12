@@ -15,3 +15,5 @@ A starter programme for writing JavaScript games.
 2. The script will detect when the left, right, up and down arrow
    keys are pressed and will move the ball element
    accordingly.
+
+3. This is an additional entry to test .git updating.
